@@ -4,6 +4,5 @@ function wordblanks(myNoun, myAdjective, myVerb, myAdverb){
   
   return result;
 }
-
 console.log(wordblanks('dog','big','run','quickly'))
 console.log(wordblanks('bike','slow','flew','slowly'));
